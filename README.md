@@ -1,6 +1,6 @@
 # Hi there! I'm Payal Bhoyar
 
-**Python | Data | Automation | Analytics | AI — exploring every path of innovation.**
+**Python | Data | Analytics | AI — exploring every path of innovation.**
 
 ---
 
@@ -15,7 +15,7 @@ Always learning, always exploring new ways to make an impact.
 
 **Programming Languages:** Python, SQL  
 **Data & Analytics Tools:** Power BI, Excel, Pandas, NumPy  
-**Domains:** Data Analysis, Automation, HR Analytics, AI & Machine Learning  
+**Domains:** Data Analysis, HR Analytics, AI & Machine Learning  
 **Other Tools:** Git, Vs Code,  
 
 ---
